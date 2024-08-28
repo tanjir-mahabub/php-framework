@@ -1,0 +1,15 @@
+{
+    "name": "piyash/php-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "tanjir-mahabub",
+            "email": "md.tanjir.mahabub@gmail.com"
+        }
+    ],
+    "require": {}
+}

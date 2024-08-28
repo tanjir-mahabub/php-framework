@@ -1,0 +1,49 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore sensitive information
+.env
+.env.local
+.env.*.local
+.env.php
+.env.backup
+
+# Ignore dependency directories
+/vendor/
+
+# Ignore composer files
+composer.lock
+
+# Ignore IDE files
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vscode/
+nbproject/
+*.code-workspace
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore compiled files and caches
+*.compiled
+*.cache
+*.min.js
+*.min.css
+*.min.map
+*.class
+*.pyc
+*.pyo
+*.swp
+*.bak
+*.old
+*.orig
+*.rej
+*.so
+*.o
+*.obj
+
+# Ignore specific PHP cac
